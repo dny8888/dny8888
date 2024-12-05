@@ -9,9 +9,8 @@
 
 ```javascript
 const dny8888 = {
-  pronouns: "He" | "Him",
   code: [Javascript, Typescript, Python, C/C++],
-  techs: [NodeJS, React, ReactNative, Docker],
+  techs: [NodeJS, Docker],
   challenge: "I am an engineering student, who is passionate about breaking things"
 }
 ```
