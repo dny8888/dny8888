@@ -1,8 +1,5 @@
 # Daniel Belmiro Pereira :robot:
 
-<div align="center">
-  <img src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif" width="100">
-</div>
 
 <p align="center">
   <em>Electronic Engineering Student at <a href="http://portal.utfpr.edu.br/">UTFPR</a></em><br>
